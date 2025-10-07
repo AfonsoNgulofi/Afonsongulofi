@@ -2,10 +2,19 @@
 
 **`Desenvolvedor Front-rnd`**
 
-👋 Olá! Sou Afonso Ngulofi, um Programador Front-End apaixonado por desenvolver interfaces modernas, responsivas e funcionais.
-💻 Trabalho com HTML, CSS, JavaScript e ReactJS, aplicando boas práticas de desenvolvimento para criar experiências digitais rápidas e elegantes.
-🚀 Estou constantemente a aprender novas tecnologias e a aprimorar minhas habilidades em componentização, hooks, gestão de estado e integração com APIs.
-📚 Meu foco é evoluir como desenvolvedor e contribuir com projetos que tragam impacto real e inovação.
+👋 Olá! Sou **Afonso Ngulofi**, um **Programador Front-End** apaixonado por desenvolver interfaces modernas, responsivas e funcionais.
+💻 Trabalho com **HTML**, **CSS**, **JavaScript** e **ReactJS**, aplicando boas práticas de desenvolvimento para criar experiências digitais rápidas, elegantes e eficientes.
+🚀 Estou sempre a aprender novas tecnologias e a aprimorar minhas habilidades em **componentização**, **hooks**, **gestão de estado** e **integração com APIs**.
+📚 Meu foco é crescer como desenvolvedor e contribuir com projetos que tragam inovação e impacto real.
+
+✨ *“Transformar ideias em código é a arte que move o futuro.”*
+
+📫 **Entre em contacto comigo:**
+
+* 📧 Email: [afonsongulofi@gmail.com](mailto:afonsongulofi@gmail.com)
+* 💬 Telegram: [@AfonsoFrancisco02](https://t.me/AfonsoFrancisco02)
+* 🌐 LinkedIn: [www.linkedin.com/in/afonso-ngulofi-563b37213](https://www.linkedin.com/in/afonso-ngulofi-563b37213)
+* 📘 Facebook: [Afonso Ngulofi](https://www.facebook.com/AfonsoNgulofi)
 
 
 ---
