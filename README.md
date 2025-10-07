@@ -83,7 +83,8 @@ Me chamo Afonso Francisco Ngulofi, tenho 26 anos e sou natural de Luanda. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<br/>
+<br/>
 ### 📊 Estatísticas
 
 <p>
