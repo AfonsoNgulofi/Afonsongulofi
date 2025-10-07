@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Front-rnd`**
 
-Me chamo Afonso Francisco Ngulofi, tenho 26 anos e sou natural de Luanda. Concluí o ensino médio no IMPAL, com o curso técnico em informática. Atualmente, estou estudando Ui/Designer, Desenvolvimento Front-end. E sou apaixonada por tecnologia.
+👋 Olá! Sou Afonso Ngulofi, um Programador Front-End apaixonado por desenvolver interfaces modernas, responsivas e funcionais.
+💻 Trabalho com HTML, CSS, JavaScript e ReactJS, aplicando boas práticas de desenvolvimento para criar experiências digitais rápidas e elegantes.
+🚀 Estou constantemente a aprender novas tecnologias e a aprimorar minhas habilidades em componentização, hooks, gestão de estado e integração com APIs.
+📚 Meu foco é evoluir como desenvolvedor e contribuir com projetos que tragam impacto real e inovação.
 
 
 ---
