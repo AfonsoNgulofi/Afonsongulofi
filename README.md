@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Afonso Ngulofi
 
-**`Desenvolvedor Front-rnd`**
+**`Desenvolvedor Front end`**
 
 👋 Olá! Sou **Afonso Ngulofi**, um **Programador Front-End** apaixonado por desenvolver interfaces modernas, responsivas e funcionais.
 💻 Trabalho com **HTML**, **CSS**, **JavaScript** e **ReactJS**, aplicando boas práticas de desenvolvimento para criar experiências digitais rápidas, elegantes e eficientes.
